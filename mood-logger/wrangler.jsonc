@@ -10,6 +10,12 @@
 	"observability": {
 		"enabled": true
 	},
+	"ai": {
+		"binding": "AI"
+	},
+	"assets": {
+		"directory": "./public/"
+	},
 	"d1_databases": [
 		{
 			"binding": "mood_logger_db",
